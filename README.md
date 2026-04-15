@@ -1,4 +1,4 @@
-# University of Michigan Ann Arbor code for Botlab
+# University of Michigan Ann Arbor - Botlab
 
 This was a group project completed as part of the ROB 550 course at the University of Michigan, Ann Arbor, undertaken in Fall 2023 as part of the MS Robotics curriculum. In the Botlab, we developed movement control, obstacle detection, maze exploration, and self-localization capabilities on the MBot mobile robot platform. The project focused on exploring the fundamentals of robotic autonomy by enabling the MBot to perform autonomous mapping, localization, and environment exploration. This repository contains the updated and final version of the original codebase.
 
