@@ -73,7 +73,7 @@ Together, this multi-layer control architecture enables accurate trajectory trac
 Planning and exploration are the top level functions that use SLAM and motion control. A* is used for path planning and the controller follows these paths to explore the environment. The system selects the nearest frontier defined as unknown areas next to known free space and plans routes toward its center to systematically map unexplored regions.
 
 
-<img src="data/bonus_states.png" width="300"> <img style="width:50%" src="https://github.com/DhyeyR-007/Autonomous-Ground-Vehicle-Navigation-MBot/blob/final-dev/data/bot_a_star_gif.gif"> 
+<img src="data/bonus_states.png" width="300"> <img style="width:80%" src="https://github.com/DhyeyR-007/Autonomous-Ground-Vehicle-Navigation-MBot/blob/final-dev/data/bot_a_star_gif.gif"> 
 
 This demo video shows a solution to the global localization problem, where the global map is given but the robot starts at a unknown initial pose. 
 
