@@ -56,8 +56,8 @@ These velocity commands are then mapped into individual wheel velocity targets u
 Together, this multi-layer control architecture enables accurate trajectory tracking, stable motion execution, and robust low-level actuation on the MBot platform.
 
 - **Velocity and Motion controller schematic**:
- <img width="500" height="716" alt="image" src="https://github.com/user-attachments/assets/dc3b3ef6-7f3a-40a1-86e0-d9d4a6adfb82" />
- <img width="500" height="625" alt="image" src="https://github.com/user-attachments/assets/886755d9-36ee-4456-90d7-3e80b0e36e24" /> 
+ <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/dc3b3ef6-7f3a-40a1-86e0-d9d4a6adfb82" />
+ <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/886755d9-36ee-4456-90d7-3e80b0e36e24" /> 
 
 
 <br>
